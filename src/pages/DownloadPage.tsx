@@ -35,14 +35,14 @@ export default function DownloadPage() {
             </div>
 
             <a 
-              href="https://github.com/Divyansh-2903/One-Clip-Hub/releases/download/Release/OneClip.Hub.Setup.1.0.0.exe"
+              href="https://release-assets.githubusercontent.com/github-production-release-asset/1183978789/bcfad8b2-2cea-4940-8813-3d22da872806?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-03-19T11%3A06%3A26Z&rscd=attachment%3B+filename%3DOneClip.Hub.Setup.1.1.0.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-03-19T10%3A06%3A04Z&ske=2026-03-19T11%3A06%3A26Z&sks=b&skv=2018-11-09&sig=ZIzFg2z2V8ebTHfxLFm5%2BGmUMuT5LXFl2NXimxIgok4%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3MzkxOTM3OSwibmJmIjoxNzczOTE1Nzc5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.7DtVGGkBO4HYM7uE7AYdKluK3TnzB0QVWc_JsXoi3no&response-content-disposition=attachment%3B%20filename%3DOneClip.Hub.Setup.1.1.0.exe&response-content-type=application%2Foctet-stream"
               className="w-full py-4 rounded-xl bg-gradient-emerald text-black font-bold hover:opacity-90 transition-opacity btn-magnetic glow-cta flex items-center justify-center gap-2"
             >
               <Download size={20} />
               Download for Windows
             </a>
             <div className="text-center mt-4 text-xs text-text-secondary">
-              v1.0.0 • Windows 10/11 (64-bit)
+              v1.1.0 • Windows 10/11 (64-bit)
             </div>
           </div>
         </div>

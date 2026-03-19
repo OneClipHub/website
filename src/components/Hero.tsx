@@ -109,7 +109,7 @@ export default function Hero() {
             
             {/* Text with gradient effect */}
             <span className="text-sm font-semibold text-transparent bg-clip-text bg-gradient-to-r from-text-primary to-text-secondary">
-              Now Live on
+              v1.1 Now Live on
             </span>
             <span className="text-sm font-bold text-transparent bg-clip-text bg-gradient-emerald">
               Windows
